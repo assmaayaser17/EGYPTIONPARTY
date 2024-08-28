@@ -1,0 +1,139 @@
+
+header {
+    background-image: url(../Images/events-heavenly-header.jpg);
+    height: 660px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+  }
+  a {
+    text-decoration: none;
+  }
+  .overlay {
+    background-color: rgba(214, 46, 51, 0.6) ;
+  }
+  .head-title {
+    font-size: 60px;
+  }
+  
+  .menu-left {
+    transition: all 0.5s;
+    left: -260px;  /*0*/
+    width:260px; 
+    height: 100vh;
+    padding-top: 60px; 
+    padding-left: 40px; 
+    z-index: 5555;
+  }
+  .fa-close {
+    right: 25px;
+    top: 50px;
+  }
+  .menu-left a {
+    transition: color 0.3s;
+  }
+  .menu-left {
+    font-size: 25px;
+  }
+  .menu-left span {
+   right: -100px;
+  }
+  .menu-left a:hover {
+    color: rgba(214, 46, 51, 0.6) !important;
+  }
+  .head span {
+    cursor: pointer;
+    font-size: 30px;
+    margin-left: 10px; /*270*/
+  }
+  
+  .counter {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-image: url(../Images/invitation-2508607__340.jpg);
+    background-size: cover;
+    background-position: center center;
+  }
+  
+  .border-white {
+    padding: 50px;
+    font-size: 30px;
+  }
+
+.slider-down {
+    margin: 100px auto;
+    width: 50%;
+}
+.slider-down .text {
+    display: none;
+    background-color: rgb(205, 194, 194);
+ }
+ .text2 {
+    display: none;
+    background-color: rgb(205, 194, 194);
+ }
+
+ .text3 {
+    display: none;
+    background-color: rgb(205, 194, 194);
+ }
+
+
+ .text4 {
+    display: none;
+    background-color: rgb(205, 194, 194);
+ }
+
+
+
+
+.slider-down h3 {
+    padding: 10px;
+    margin: 0;
+    background-color: rgba(214, 46, 51 , 0.6);
+    cursor: pointer;
+    color: white;
+}
+
+.sec-three {
+    height: 330px;
+    background-image: url(../Images/invitation-2508607__340.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+
+
+
+
+}
+
+.form-control {
+    display: inline !important;
+}
+textarea {
+    height: 200px;
+} 
+input {
+    margin-top: 30px !important;
+} 
+textarea {
+    margin-top: 30px;
+}
+button {
+    background-color: #D62E33 !important;
+    color: #fff !important;
+    padding: 10px 20px !important;
+    border-radius: 0 !important;
+    text-transform: uppercase !important;
+}
+#chars {
+    color: red;
+}
+
+
+
+
+
+
+
+
